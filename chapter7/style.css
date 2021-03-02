@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0 ;
+  box-sizing: content-box;
+}
+
+header {
+  height: 400px;
+  width: 100%;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+h1{
+  color: grey;
+  padding: 20px;
+}
+
+main {
+  width: 840px;
+  margin: 0 auto;
+  padding: 50px 0 ;
+}
+
+.blog-box {
+  width: 840px;
+  border-bottom: 1px solid lightslategray;
+  margin-bottom: 30px;
+}
+
+.blog-text {
+  color: grey;
+  padding-bottom: 30px;
+}
+
+a {
+  font-size: 13px;
+}
